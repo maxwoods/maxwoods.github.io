@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Inconsolata', mono;
+  letter-spacing: +5px;
+}
+
+#quote-machine {
+  color: #00FF00;
+  background-color: black;
+  padding: 20px;
+  font-family: 'Inconsolata', mono;
+  font-size: 1.5em;
+}
+
+#quote-button {
+  background-color: green;
+  margin-bottom: 5px;
+}
+
+#author {
+  padding-bottom: 5px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+blockquote {
+  border-left: 2px solid red;
+}
